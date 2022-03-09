@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Can,  i have been learning coding since high school and i am currently improving myself  in the field of mobile coding.
+
+🌱 I’m currently learning Flutter/Dart 
+🤔 I’m looking for help with Flutter coding
+📫 How to reach me: https://www.linkedin.com/in/can-bellibaslilar/
+  
+
 <!--
 **canvosk/canvosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
